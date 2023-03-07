@@ -1,4 +1,4 @@
-# Calcular 
+# Calculator 
 This is the MD coding file for the Calcular website, which is a calculator application that has been created using HTML, CSS, and JavaScript. The calculator works in both light and dark mode, and the following sections will provide an overview of the files and code used to create this website.
 
 ## File Structure
